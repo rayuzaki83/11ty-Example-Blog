@@ -1,3 +1,3 @@
 # 11ty-r3tkbt
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/11ty-r3tkbt)
+This is a blog created using 11ty in Stackblitz
