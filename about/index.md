@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Hey it's Ray, the person who likes to write stuff about life and what goes in between! Tune up for more interesting stories in my blog!
